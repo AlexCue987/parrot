@@ -1,0 +1,23 @@
+[
+  {
+    "key": {
+      "methodName": "get",
+      "path": "weather/current/",
+      "queryParameters": {
+        "frequency": "daily",
+        "level": "detailed"
+      }
+    },
+    "value": "UUID1.json"
+  },
+  {
+    "key": {
+      "methodName": "get",
+      "path": "weather/current/",
+      "queryParameters": {
+        "frequency": "hourly"
+      }
+    },
+    "value": "UUID2.json"
+  }
+]

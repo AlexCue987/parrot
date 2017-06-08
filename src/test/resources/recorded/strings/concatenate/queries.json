@@ -1,0 +1,24 @@
+[
+  {
+    "key": {
+      "methodName": "get",
+      "path": "strings/concatenate",
+      "queryParameters": {
+        "token1": "color",
+        "token2": "size"
+      }
+    },
+    "value": "1b9dbf9b-102d-4670-bd00-ec33e014289c.json"
+  },
+  {
+    "key": {
+      "methodName": "get",
+      "path": "strings/concatenate",
+      "queryParameters": {
+        "token1": "length",
+        "token2": "width"
+      }
+    },
+    "value": "b79afe2a-4688-412f-9802-9fa252a0588c.json"
+  }
+]

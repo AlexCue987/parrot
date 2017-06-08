@@ -1,0 +1,24 @@
+[
+  {
+    "key": {
+      "methodName": "get",
+      "path": "math/divide",
+      "queryParameters": {
+        "denominator": "0.3",
+        "numerator": "1.5"
+      }
+    },
+    "value": "f3d0cd85-e1d4-4bec-af77-0986e50a3735.json"
+  },
+  {
+    "key": {
+      "methodName": "get",
+      "path": "math/divide",
+      "queryParameters": {
+        "denominator": "0",
+        "numerator": "1.2"
+      }
+    },
+    "value": "3beafb53-f820-49d5-bec1-c507b82932c8.json"
+  }
+]
